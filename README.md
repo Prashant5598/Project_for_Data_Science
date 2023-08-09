@@ -5,3 +5,5 @@
 [Project 3: Stock Prediction using Matlab](https://github.com/Prashant5598/Project_3)
 
 [Project 4: Real Option Valuation for Intel Expansion](https://github.com/Prashant5598/Project_4)
+
+[Project 5: Earthquake_Data_Analysis_for_Mediterranean_Region using PySpark](https://github.com/Prashant5598/Project_5)
