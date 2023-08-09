@@ -1,3 +1,3 @@
-# Project_for_Data_Science_1
+# Project_for_Data_Science
 Iranian Churn Prediction using Matlab
 
