@@ -22,3 +22,8 @@
 - Programming Language: Python
 - Algorithm: K-means clustering and EDA
 - Dataset: earthquake.usgs.gov
+- 
+[Project 6: Prediciton of Bike Rental demand](https://github.com/Prashant5598/Project_6)
+- Programming Language: Python
+- Algorithm: Regression and Clustering
+- Dataset: Biker Dataset
